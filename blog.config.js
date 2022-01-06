@@ -1,8 +1,8 @@
 const BLOG = {
-  title: 'CRAIGARY',
-  author: 'Craig Hart',
+  title: 'Jiayao's blog',
+  author: 'Jiayao',
   email: 'i@craigary.net',
-  link: 'https://nobelium.vercel.app',
+  link: 'https://jiayao.shan/blog',
   description: 'This gonna be an awesome website.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
