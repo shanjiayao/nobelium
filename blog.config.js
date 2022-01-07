@@ -1,7 +1,7 @@
 const BLOG = {
   title: "Jiayao's blog",
   author: 'Jiayao',
-  email: 'i@craigary.net',
+  email: 'shanjiayao97@gmail.com',
   link: 'https://jiayao.shan/blog',
   description: 'This gonna be an awesome website.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
